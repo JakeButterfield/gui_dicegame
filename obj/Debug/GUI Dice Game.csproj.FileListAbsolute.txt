@@ -1,0 +1,21 @@
+C:\Users\Laptop\OneDrive\Programming\C#\GUI Dice Game\GUI Dice Game\bin\Debug\GUI Dice Game.exe.config
+C:\Users\Laptop\OneDrive\Programming\C#\GUI Dice Game\GUI Dice Game\bin\Debug\GUI Dice Game.exe
+C:\Users\Laptop\OneDrive\Programming\C#\GUI Dice Game\GUI Dice Game\bin\Debug\GUI Dice Game.pdb
+C:\Users\Laptop\OneDrive\Programming\C#\GUI Dice Game\GUI Dice Game\obj\Debug\GUI Dice Game.csprojResolveAssemblyReference.cache
+C:\Users\Laptop\OneDrive\Programming\C#\GUI Dice Game\GUI Dice Game\obj\Debug\GUI_Dice_Game.Form1.resources
+C:\Users\Laptop\OneDrive\Programming\C#\GUI Dice Game\GUI Dice Game\obj\Debug\GUI_Dice_Game.Properties.Resources.resources
+C:\Users\Laptop\OneDrive\Programming\C#\GUI Dice Game\GUI Dice Game\obj\Debug\GUI Dice Game.csproj.GenerateResource.Cache
+C:\Users\Laptop\OneDrive\Programming\C#\GUI Dice Game\GUI Dice Game\obj\Debug\GUI Dice Game.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\OneDrive\Programming\C#\GUI Dice Game\GUI Dice Game\obj\Debug\GUI Dice Game.exe
+C:\Users\Laptop\OneDrive\Programming\C#\GUI Dice Game\GUI Dice Game\obj\Debug\GUI Dice Game.pdb
+C:\Users\Jake Butterfield\OneDrive\Programming\C#\GUI Dice Game\GUI Dice Game\bin\Debug\GUI Dice Game.exe.config
+C:\Users\Jake Butterfield\OneDrive\Programming\C#\GUI Dice Game\GUI Dice Game\bin\Debug\GUI Dice Game.exe
+C:\Users\Jake Butterfield\OneDrive\Programming\C#\GUI Dice Game\GUI Dice Game\bin\Debug\GUI Dice Game.pdb
+C:\Users\Jake Butterfield\OneDrive\Programming\C#\GUI Dice Game\GUI Dice Game\obj\Debug\GUI Dice Game.csprojResolveAssemblyReference.cache
+C:\Users\Jake Butterfield\OneDrive\Programming\C#\GUI Dice Game\GUI Dice Game\obj\Debug\GUI_Dice_Game.Form1.resources
+C:\Users\Jake Butterfield\OneDrive\Programming\C#\GUI Dice Game\GUI Dice Game\obj\Debug\GUI_Dice_Game.Properties.Resources.resources
+C:\Users\Jake Butterfield\OneDrive\Programming\C#\GUI Dice Game\GUI Dice Game\obj\Debug\GUI Dice Game.csproj.GenerateResource.Cache
+C:\Users\Jake Butterfield\OneDrive\Programming\C#\GUI Dice Game\GUI Dice Game\obj\Debug\GUI Dice Game.csproj.CoreCompileInputs.cache
+C:\Users\Jake Butterfield\OneDrive\Programming\C#\GUI Dice Game\GUI Dice Game\obj\Debug\GUI Dice Game.exe
+C:\Users\Jake Butterfield\OneDrive\Programming\C#\GUI Dice Game\GUI Dice Game\obj\Debug\GUI Dice Game.pdb
+C:\Users\Jake Butterfield\OneDrive\Programming\C#\GUI Dice Game\GUI Dice Game\obj\Debug\GUI_Dice_Game.Form2.resources
